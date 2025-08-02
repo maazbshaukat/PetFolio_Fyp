@@ -1,0 +1,10 @@
+# Root-level .gitignore
+
+# Ignore backend environment files and node_modules
+/backend/.env
+/backend/node_modules
+
+# Ignore frontend environment files and node_modules
+/frontend/.env
+/frontend/node_modules
+
